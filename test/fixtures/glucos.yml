@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  serial_number: MyString
+  device_id: MyString
+  date: 2016-08-16 12:09:35
+  bloodsugar_value: 1.5
+  meal: 1
+
+two:
+  serial_number: MyString
+  device_id: MyString
+  date: 2016-08-16 12:09:35
+  bloodsugar_value: 1.5
+  meal: 1
